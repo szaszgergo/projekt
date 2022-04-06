@@ -1,6 +1,7 @@
-# projekt
+# Projektmunka
+##Építőipari kisvállalat
 
-## Csoport tagok
+### Csoport tagok
 <ol>
   <li>Korpa Gábor</li>
   <li>Szász Gergő</li>
