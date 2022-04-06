@@ -1,5 +1,5 @@
 # Projektmunka
-##Építőipari kisvállalat
+## Építőipari kisvállalat
 
 ### Csoport tagok
 <ol>
