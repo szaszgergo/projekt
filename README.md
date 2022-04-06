@@ -12,11 +12,11 @@
 <ol>
   <li>HTML/Weblap</li>
    <ul>
-      - Mindenki
+      - Mindenki(alweboldalak)
   </ul>
-  <li>/Packet Tracer/Hálózat</li>
+  <li>Packet Tracer/Hálózat</li>
   <ul>
-      - Szász gergő
+      - Szász Gergő
   </ul>
   <li>Python/Program</li>
    <ul>
