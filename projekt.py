@@ -7,10 +7,13 @@ class Eszkoz:
 
 eszkozok = []
 #5 eszkoz fajta van
-for i in range(5):
+while True:
+    print("Nyomj ENTER-t a kilépéshez")
     nev = input("Add meg az eszköz nevét: ")
-    ar = int(input("Add meg az eszköz árát: "))
-    db = int(input(f"Add meg a {nev} darabszámát: "))
+    if nev == "":
+        break
+    ar = int(input(f"Add meg a {nev} árát: "))
+    db = int(input(f"Add meg a {nev}-k darabszámát: "))
     eszkozok.append(Eszkoz(nev,ar,db))
 
 
