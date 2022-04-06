@@ -2,18 +2,26 @@
 ## Építőipari kisvállalat
 
 ### Csoport tagok
-<ol>
+<ul>
   <li>Korpa Gábor</li>
   <li>Szász Gergő</li>
   <li>Szász Beni</li>
-</ol>
+</ul>
 
 ### Felosztás
 <ol>
   <li>HTML/Weblap</li>
-    <li>Mindenki</li>
+   <ul>
+      - Mindenki
+  </ul>
   <li>/Packet Tracer/Hálózat</li>
+  <ul>
+      - Szász gergő
+  </ul>
   <li>Python/Program</li>
+   <ul>
+      - Korpa Gábor
+  </ul>
 </ol>
 
 
