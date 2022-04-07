@@ -18,11 +18,11 @@
   </ul>
   <li>Packet Tracer/Hálózat</li>
   <ul>
-      - Szász Gergő
+      <li> Szász Gergő </li>
   </ul>
   <li>Python/Program</li>
    <ul>
-      - Korpa Gábor
+      <li> Korpa Gábor </li>
   </ul>
 </ol>
 
