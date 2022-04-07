@@ -1,0 +1,3 @@
+Első lépésben igyekeztem megcsinálni magát a html-t. A képekkel sok problémám volt mert sehogy se akarta azt csinálni amit kellett neki. Gergő azt tanáscolta ,hogy csináljak
+belőlük kárgyákat ,ami egy nagyon jó ötlet volt ,ugyanis viszonylag egyszerü volt őket megcsinálni és jól is nézett ki. A szervernek a kárgyája sehogy sem akart be menni a 
+szöveg alá ezért segitséget is kértem a csapattársaimtol. Végül egész szépen meg tudtuk csinálni az eszközöket.
