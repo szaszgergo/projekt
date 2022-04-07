@@ -12,7 +12,9 @@
 <ol>
   <li>HTML/Weblap</li>
    <ul>
-      - Mindenki(alweboldalak)
+      - Korpa Gábor: Főoldal
+      - Szász Beni: Eszközök
+      - Szász Gergő: Folyamatok
   </ul>
   <li>Packet Tracer/Hálózat</li>
   <ul>
