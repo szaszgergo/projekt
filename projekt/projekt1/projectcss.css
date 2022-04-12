@@ -1,0 +1,52 @@
+
+#asd{
+    text-transform: uppercase;
+    
+}
+
+img{
+    margin: 10px;
+    border-radius: 10%  ;
+    border: solid black 2px;
+    width: 100%;
+}
+h5{
+    color: greenyellow;
+}
+.card{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(router.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+    border: solid black 1px;
+
+}
+.card1{
+    background-image: url(router.jpg);
+}
+.card2{
+    background-image: url(switch.jfif);
+}
+.card3{
+    background-image: url(laptop.jpg);
+}
+.card4{
+    background-image: url(pc.jpg);
+}
+.card5{
+    background-image: url(szerver.jpg);
+}
+.card6{
+    background-image: url(nyomtato.jpg);
+}
+.card:hover{
+    transform:translateY(-10px);
+}
