@@ -49,22 +49,22 @@ a {
     margin: 10px 15px;
     box-sizing: border-box;
     cursor: pointer;
-    background-image: url(pc.jpg);
+    background-image: url(kep/pc.jpg);
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
 }
 
 .card1 {
-    background-image: url(nyomtato.jpg);
+    background-image: url(kep/nyomtato.jpg);
 }
 
 .card2 {
-    background-image: url(szerver.jpg);
+    background-image: url(kep/szerver.jpg);
 }
 
 .card3 {
-    background-image: url(pc.jpg);
+    background-image: url(kep/pc.jpg);
     width: 635px;
 }
 
