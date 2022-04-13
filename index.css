@@ -41,7 +41,7 @@ a {
 }
 
 .card {
-    width: 300px;
+    width: 40%;
     height: 230px;
     display: inline-block;
     border-radius: 10px;
@@ -61,11 +61,6 @@ a {
 
 .card2 {
     background-image: url(kep/szerver.jpg);
-}
-
-.card3 {
-    background-image: url(kep/pc.jpg);
-    width: 635px;
 }
 
 .card:hover {
