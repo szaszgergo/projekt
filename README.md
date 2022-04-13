@@ -1,6 +1,10 @@
 # Projektmunka
 ## Építőipari kisvállalat
 
+### Weboldal címe:
+https://szaszgergo.github.io/projekt/
+
+
 ### Csoport tagok
 <ul>
   <li>Korpa Gábor</li>
