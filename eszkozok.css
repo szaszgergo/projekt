@@ -21,7 +21,7 @@ h5{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(router.jpg);
+    background-image: url(kep/router.jpg);
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
@@ -29,22 +29,22 @@ h5{
 
 }
 .card1{
-    background-image: url(router.jpg);
+    background-image: url(kep/router.jpg);
 }
 .card2{
-    background-image: url(switch.jfif);
+    background-image: url(kep/switch.jfif);
 }
 .card3{
-    background-image: url(laptop.jpg);
+    background-image: url(kep/laptop.jpg);
 }
 .card4{
-    background-image: url(pc.jpg);
+    background-image: url(kep/pc.jpg);
 }
 .card5{
-    background-image: url(szerver.jpg);
+    background-image: url(kep/szerver.jpg);
 }
 .card6{
-    background-image: url(nyomtato.jpg);
+    background-image: url(kep/nyomtato.jpg);
 }
 .card:hover{
     transform:translateY(-10px);
