@@ -11,13 +11,13 @@ while True:
     nev = input("Add meg az eszköz nevét: ")
     if not nev:
         break
-    ar = int(input(f"Add meg a {nev} árát: "))
+    ar = input(f"Add meg a {nev} árát: ")
     if not ar:
         break
-    db = int(input(f"Add meg a {nev}-k darabszámát: "))
+    db = input(f"Add meg a {nev}-k darabszámát: ")
     if not db:
         break
-    eszkozok.append(Eszkoz(nev,ar,db))
+    eszkozok.append(Eszkoz(nev,int(ar),int(db)))
 
 ossz = 0
 for eszkoz in eszkozok:
